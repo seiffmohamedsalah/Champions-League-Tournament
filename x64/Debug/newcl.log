@@ -1,0 +1,3 @@
+﻿  newcl.cpp
+C:\Users\Doso\Desktop\vs_code\newcl\newcl\newcl.cpp(564,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  newcl.vcxproj -> C:\Users\Doso\Desktop\vs_code\newcl\x64\Debug\newcl.exe
